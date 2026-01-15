@@ -1,0 +1,9 @@
+RUSB
+17
+11.4
+Chinese=54
+Maths=46
+English=69
+Physics=85
+Chemistry=70
+Biology=62

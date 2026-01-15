@@ -1,0 +1,9 @@
+Entity
+-1
+Not Born Yet
+Chinese=100
+Maths=100
+English=100
+Physics=100
+Chemistry=100
+Biology=100

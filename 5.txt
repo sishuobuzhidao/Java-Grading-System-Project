@@ -1,0 +1,6 @@
+SomeGuy
+7
+1.1
+Chinese=94
+English=87
+Maths=73

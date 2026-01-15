@@ -1,0 +1,8 @@
+iepc
+17
+acssl
+Chinese=62
+Physics=80
+Maths=93
+Chemistry=86
+Biology=75

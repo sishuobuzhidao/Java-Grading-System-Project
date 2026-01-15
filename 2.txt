@@ -1,0 +1,6 @@
+lky
+16
+11.3
+Chinese=98
+Maths=88
+English=93

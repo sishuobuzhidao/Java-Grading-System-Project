@@ -1,0 +1,8 @@
+cmd
+15
+9.5
+Chinese=90
+Maths=81
+English=73
+Physics=67
+Chemistry=80

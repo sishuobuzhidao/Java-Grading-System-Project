@@ -1,0 +1,24 @@
+This project is based on Java's swing system. It implements a Graphical User Interface for users to monitor students' scores.
+The project features Java concepts such as IO, Stream, JFrame and Iterator.
+In the GUI page, users can use the options given on the menubar to manage student data. All the data are displayed on a JTable.
+
+Add Student: Adds a new student and opens a new helper page. Users should follow the specific format to set scores and classes.
+Edit Student: Edit the student profile based on the chosen student on the table.
+Get Class Mean Score: Returns the mean score of the class chosen (column).
+Get Student Mean Score: Returns the mean score of the student based on all the classes he has.
+Rank Students: If the first three columns are chosen, the data are sorted from the smallest to the largest. If the other columns, representing scores, are chosen, the students will be sorted from the largest to the smallest. If one or more students fail to have a score for the class (NaN), they will be put in the bottom based on their name's order from the largest to the smallest.
+Refresh: Refresh the whole page. All the ranks will be lost in this way.
+
+This project includes 6 classes in total.
+The class App contains the main method.
+The class Student is a JavaBean class to describe students.
+The class MyTableModel is written for the JTable to be noneditable.
+The class MainFrame is a JFrame that contains the main page, with all students' data displayed and helper options.
+The class AddStudentFrame is a JFrame that has the page for users to add a student.
+The class EditStudentFrame is a JFrame that allows users to edit student profiles.
+
+All the students' profiles are saved in txt files in the "files" folder. A BufferedReader will read all the students' data after the program is initialized.
+One can always change data in the files, as long as a format, shown in "sample student.txt", is followed.
+The system is initially designed using MySQL as the database, but due to technological issues, simple IO are used for the database instead. It should do all the work.
+
+All rights goes to the author sishuo. Created in May 2024.

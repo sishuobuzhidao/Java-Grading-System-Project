@@ -1,0 +1,7 @@
+Chimpanzee
+14
+8.5
+Chinese=68
+Maths=64
+English=71
+Physics=55

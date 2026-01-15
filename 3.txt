@@ -1,0 +1,8 @@
+forsen
+33
+Twitch
+Chinese=9
+Maths=42
+English=100
+Physics=6
+Chemistry=8

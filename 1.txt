@@ -1,0 +1,9 @@
+Iacnas052
+17
+11.1
+Chinese=61
+Physics=79
+Maths=92
+Chemistry=88
+Biology=76
+English=91

@@ -1,0 +1,8 @@
+Halic
+17
+11.12
+Chinese=90
+Maths=86
+English=89
+Chemistry=85
+Biology=88

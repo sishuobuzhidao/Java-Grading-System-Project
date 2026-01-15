@@ -1,0 +1,7 @@
+Name
+18
+classIn
+Subject1=100
+Subject2=99
+Subject3=98
+Subject4=97
